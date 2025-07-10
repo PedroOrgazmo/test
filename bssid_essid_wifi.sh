@@ -71,3 +71,4 @@ done
 airmon-ng stop $MON_INTERFACE >/dev/null 
 
 echo -e "\n BSSID - \033[1;32m${SELECTED_MAC}\033[0m \n ESSID - \033[1;32m${SELECTED_ESSID}\033[0m" #ANSI! 
+#Hello git!
